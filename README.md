@@ -2,6 +2,8 @@
 StringToBool is a java library with the sole purpose of calculating boolean operation written as String.  
 StringToBool (from now on abbreviated as STB) has been created with the purpose to help programmers calculate boolean operation by simply inputting a string to receive 
 the result as a boolean.
+As STB is an Object, to be used it must be created: (Object name will be subject to change) sequenceBool a = new sequenceBool(""), to get the result value, use the 
+method "scomponi". Example: a.scomponi("(x < y) & (3 le 5)");
 STB as of now supports the main boolean operations:
 - "A or B": to use this operation the simbol "|" must be written as follows: "(*generic formula A*) | (*generic formula B*)", it will return true if one 
 of the two formula is true, false otherwise;
