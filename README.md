@@ -15,8 +15,8 @@ STB as of now supports different comparation:
 - "x == y": *x equals y*, this operation must be implemented inside parentesis as follows: "(x == y)", it will return true if the value x equals to the value y;
 - "x < y" : *x less then y*, this operation must be implemented inside parentesis as follows: "(x < y)", it will return true if the value x is less then y;
 - "x > y" : *x Greater then y*, this operation must be implemented inside parentesis as follows: "(x > y)", it will return true if the value x is greater then y;
-- "x le y" : *x less equal then y*, this operation must be implemented inside parentesis as follows: "(x le y)", it will return true if the value x is less or equl to y;
-- "x ge y" : *x Greater equal then y*, this operation must be implemented inside parentesis as follows: "(x ge y)", it will return true if the value x is greater or equl to y;
+- "x le y" : *x less equal then y*, this operation must be implemented inside parentesis as follows: "(x le y)", it will return true if the value x is less or equal to y;
+- "x ge y" : *x Greater equal then y*, this operation must be implemented inside parentesis as follows: "(x ge y)", it will return true if the value x is greater or equal to y;
 
 °STB is a project under development and will be subject to changes. 
 For any information regarding STB e-mail me at: marroleonardo@gmail.com
