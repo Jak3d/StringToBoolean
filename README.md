@@ -15,4 +15,4 @@ STB as of now supports different comparation:
 - "x ge y" : *x Greater equal then y*, this operation must be implemented inside parentesis as follows: "(x ge y)", it will return true if the value x is greater or equl to y;
 
 °STB is a project under development and will be subject to changes. 
-For any information regarding STB email me at: marroleonardo@gmail.com
+For any information regarding STB e-mail me at: marroleonardo@gmail.com
